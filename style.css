@@ -1,14 +1,62 @@
 *{
+    
     font-family: 'Poppins', sans-serif;
 }
-@media only screen and (max-width: 578px){
+body{
+    width: 100%;
+}
+#headsec{
+    width: 100%;
+    position: relative;
+    padding-left: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-right: 0%;
+}
+.container{
+    font-size: 1.5vw;
+}
+.container h1{
+    font-size: 3vw;
+}
+ .container h5{
+    font-size: 2vw;
+}
+.container h6{
+    font-size: 1.5vw;
+}
+#mainid{
+    width: 100%;
+    position: relative;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+#button{
+  position: relative;
+  margin-left: 46%;
+  margin-right: 45%;
 
-    .fw-bold{
-           padding-top: 5%;
-            font-size: 4vw;
-        }
-    p{
-        font-size: 3vw;
-    }
-
+     
+    
+}
+.para{
+    height: 50%;
+    width: 65%;
+}
+.modalbutton{
+    width: 45%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.iconstar{
+    display: flex;
+    justify-content: space-between;
+    
+}
+#detailed{
+    width: 100%;
+    position: relative;
+    padding-left: 0%;
+    padding-right: 0%;
 }

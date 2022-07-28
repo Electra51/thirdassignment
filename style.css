@@ -1,3 +1,14 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
+@media only screen and (max-width: 578px){
+
+    .fw-bold{
+           padding-top: 5%;
+            font-size: 4vw;
+        }
+    p{
+        font-size: 3vw;
+    }
+
+}

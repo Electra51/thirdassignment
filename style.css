@@ -1,10 +1,10 @@
-*{
-    
-    font-family: 'Poppins', sans-serif;
-}
 body{
     width: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
 }
+
 #headsec{
     width: 100%;
     position: relative;
@@ -59,4 +59,55 @@ body{
     position: relative;
     padding-left: 0%;
     padding-right: 0%;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo img{
+    width: 75%;
+    height: 60%;
+}
+
+
+
+
+.feedback span{
+    
+    font-size: 15px;
+    margin: 13px ;
+    font-weight: 400;
+}
+/* footer css */
+footer{
+    width: 100%;
+    margin-top: 130px;
+    background-color: #312626;
+    
+    color: #FFFFFF;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+}
+.fa-facebook-square{
+    color: #FFFFFF;
+}
+.fa-facebook-square:hover{
+    color: rgb(50, 88, 124);
+}
+.fa-instagram{
+    color: #FFFFFF;
+}
+.fa-instagram:hover{
+    color: rgb(50, 88, 124);
+}
+
+.fa-linkedin{
+    color: #FFFFFF;
+}
+.fa-linkedin:hover{
+    color: rgb(50, 88, 124);
 }

@@ -36,3 +36,43 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+---
+
+
+
+## Contributing
+
+Contributions are always welcome! Here's how you can help:
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## Author
+
+**Electra51**
+
+- **GitHub**: [@Electra51](https://github.com/Electra51)
+- **LinkedIn**: https://www.linkedin.com/in/safayet-nur/
+- **Email**: safayetnurelectra@gmail.com
+- **Portfolio**: https://nextjs-my-portfolio-electra51.vercel.app/
+- **Twitter**: https://x.com/nur_safaye51
+
+---
+
+
+## Support
+
+If you like this project, please ⭐ star this repository!
+
+---
+
+
+**Star this repository if you found it helpful!**
+### Made with ❤️ by Electra51
+Happy Coding! 🚀

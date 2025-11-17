@@ -30,7 +30,7 @@ body {
   background: linear-gradient(135deg, #6bc2df78 0%, #5acbf1ac 100%);
   border-radius: 10px;
   padding: 50px;
-  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 20px 60px rgba(158, 158, 158, 0.15);
   overflow: hidden;
   position: relative;
 }

@@ -21,3 +21,18 @@
 </div>
 
 ---
+## Core Features
+
+- Responsive, mobile-first layout built with Bootstrap 5.
+- Clean hero section with call-to-action to explore courses.
+- Course listing cards with brief details and enroll buttons.
+- FAQ / Help section to answer common user questions.
+- Contact form for inquiries and feedback.
+- Lightweight, fast-loading static site (HTML/CSS/Bootstrap).
+- Accessible navigation and clear content hierarchy.
+
+## Technologies Used
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap 5](https://img.shields.io/badge/-Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)

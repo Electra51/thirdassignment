@@ -14,11 +14,6 @@
 
 ---
 
-## Live Demo  
-[https://electra51.github.io/ms-academy/](https://electra51.github.io/ms-academy/)
-
----
-
 ## Preview
 
 <div align="start">
